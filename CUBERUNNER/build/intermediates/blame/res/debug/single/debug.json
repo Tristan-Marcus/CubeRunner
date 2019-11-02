@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_app_icon.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_app_icon_round.png.flat",
+        "source": "Y:\\Android Applications\\Runner Game\\CUBERUNNER\\src\\main\\res\\mipmap-ldpi\\app_icon_round.png"
+    }
+]

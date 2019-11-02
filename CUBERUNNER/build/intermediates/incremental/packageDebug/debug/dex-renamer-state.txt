@@ -1,0 +1,4 @@
+#Sat Nov 02 15:31:49 MST 2019
+base.0=Y\:\\Android Applications\\Runner Game\\CUBERUNNER\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
